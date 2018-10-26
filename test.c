@@ -1,3 +1,3 @@
 int main(int argc, char *argv) {
-	printf("helo");
+	return printf("helo");
 }
